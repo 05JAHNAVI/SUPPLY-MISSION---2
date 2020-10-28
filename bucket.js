@@ -13,5 +13,6 @@ class Bucket{
     display(){
         rectMode(CENTER);
         rect(this.body.position.x,this.body.position.y,this.width,this.height);
+        fill("red");
     }
 }
