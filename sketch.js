@@ -42,7 +42,7 @@ function setup() {
 
 
 	 bucket1 = new Bucket(590,418,15,100);
-	 bucket2 = new Bucket(369,455,450,15);
+	 bucket2 = new Bucket(369,454,450,15);
 	 bucket3 = new Bucket(150,420,15,100);
 	 fill("red");
 
